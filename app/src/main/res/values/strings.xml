@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="logo_description">Evil Corp Logo</string>
+    <string name="motto">Together We Can Change the World</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="phone_number">(595) 959-5959</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="email_address">Send Us An Email</string>
+    <string name="fsociety_logo">fsociety Logo</string>
+    <string name="website_url">e-corp-online.com</string>
+</resources>
